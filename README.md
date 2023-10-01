@@ -1,1 +1,1 @@
-# Data_science_interview
+# Common data science interview questions
